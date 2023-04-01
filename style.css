@@ -2,3 +2,8 @@ header {
     background-color: red;
     color: aqua;
 }
+
+body {
+    background-image: url('Siamese_cat_1110x740.jpg');
+    color: antiquewhite;
+}
