@@ -8,9 +8,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    /* Testing comments */
     color: antiquewhite;
 }
 
 table, td, tr {
+    width: 100%;
     border: 1px solid black;
 }
