@@ -12,7 +12,11 @@ body {
     color: antiquewhite;
 }
 
-table, td, tr {
-    width: 100%;
+table, td, th {
     border: 1px solid black;
+}
+
+th, td {
+    background-color: black;
+    color: white;
 }
