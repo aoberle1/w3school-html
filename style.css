@@ -10,3 +10,7 @@ body {
     background-attachment: fixed;
     color: antiquewhite;
 }
+
+table, td, tr {
+    border: 1px solid black;
+}
