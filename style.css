@@ -24,3 +24,8 @@ th, td {
     background-color: black;
     color: white;
 }
+
+dl {
+    border: 5px solid white;
+    background-color: black;
+}
